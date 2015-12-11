@@ -1,0 +1,27 @@
+{
+  "name": "kraken-example-with-shoppingcart",
+  "description": "Example applications built with kraken",
+  "main": "index.js",
+  "authors": [
+    "aman"
+  ],
+  "license": "Apache 2.0",
+  "keywords": [
+    "express",
+    "kraken",
+    "kraken-js",
+    "krakenjs",
+    "examples"
+  ],
+  "homepage": "https://github.com/aman0302/kraken-sample",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/components",
+    "test",
+    "tests"
+  ]
+}
