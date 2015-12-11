@@ -1,6 +1,9 @@
 {
   "name": "kraken-example-with-shoppingcart",
   "version": "0.1.0",
+    "engines": {
+    "node": "4.1.1"
+  },
   "description": "Example applications built with kraken",
   "repository": {
     "type": "git",
